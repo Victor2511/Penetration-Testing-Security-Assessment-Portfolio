@@ -10,11 +10,11 @@ As an **Ingeniero Informático** certified with **CPTS (Hack The Box)** and **PS
 
 To ensure privacy, prevent unauthorized modifications, and respect platform policies while demonstrating full executive and technical reporting capabilities, full reports are hosted securely on Google Drive with **Read-Only (Viewer)** access:
 
-* 📄 **[CPTS Examination Report - Enterprise Network Penetration Test](https://drive.google.com/drive/folders/1zwlUeDysRo0MtIZ05yv6UiV7iIwMC33d?usp=sharing)**  
+* 📄 **[CPTS Examination Report - Enterprise Network Penetration Test](https://drive.google.com/file/d/1wjEsw7yF-qVBbOR2bf2KArXxFdS0Lx3j/view?usp=sharing)**  
   * **Scope:** External Network, DMZ, Internal Segment, Active Directory Domains (`ad.trilocor.local` & `mgmt.trilocorvendor.local`).
   * **Highlights:** 25 findings evaluated using CVSS 3.1, complete attack chains from external foothold to DCSync, Active Directory ACL abuse, cross-domain privilege escalation, and remediation roadmap (Short, Medium, Long-term).
 
-* 📄 **[PSAA Examination Report - Practical SOC & Incident Response](https://drive.google.com/drive/folders/1zwlUeDysRo0MtIZ05yv6UiV7iIwMC33d?usp=sharing)**  
+* 📄 **[PSAA Examination Report - Practical SOC & Incident Response](https://drive.google.com/file/d/1cTNEjCSuiM9b1jApCNhEXdeu_GS9ha92/view?usp=sharing)**  
   * **Scope:** Incident Analysis, PCAP Inspection, SIEM Detection & Log Analysis (Splunk/Sysmon).
   * **Highlights:** BPF filtering, threat hunting methodologies, phishing triage (AitM), Lumma InfoStealer detection, and NIST Incident Response life-cycle reporting.
 
