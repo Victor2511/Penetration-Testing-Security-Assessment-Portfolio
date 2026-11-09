@@ -2,7 +2,7 @@
 
 Welcome to my security assessment portfolio. This repository documents my practical methodology, technical write-ups, and professional report standards across **Offensive Security (Pentesting/Red Team)**, **Defensive Security (SOC/Threat Hunting)**, and **AI Security (LLM Red Teaming)**.
 
-As an **Ingeniero Informático** certified with **CPTS (Hack The Box)** and **PSAA (TCM Security)**, I structure all engagements following industry-standard frameworks, including **PTES**, **NIST CSF**, and **MITRE ATT&CK**.
+As an **Computer Science Engineer** certified with **CPTS (Hack The Box)** and **PSAA (TCM Security)**, I structure all engagements following industry-standard frameworks, including **PTES**, **NIST CSF**, and **MITRE ATT&CK**.
 
 ---
 
